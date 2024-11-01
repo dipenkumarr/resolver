@@ -16,7 +16,7 @@ The chromedriver and QE-index.html must be in the same folder as this file in or
 
 To Run:
 pip install selenium
-python main.py or python3 main.pyf
+python main.py or python3 main.py
 
 """
 
